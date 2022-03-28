@@ -1,0 +1,1 @@
+web: gunicorn pw26s.wsgi
