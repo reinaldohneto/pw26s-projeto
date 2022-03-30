@@ -3,6 +3,16 @@
 Olá, este é o repositório da API REST de Alunos e Responsáveis, desenvolvida em **Python** utilizando o framework **Django/RestFramework**. Esta API foi desenvolvida como forma de estudos da disciplina de **Tópicos Avançados Em Programação Para Web** (PW26S) da **UTFPR**.
 Esta foi a primeira experiência com a linguagem Python que tive, portanto provavelmente haverá pontos no código que poderiam ser feitos de outra forma.
 
+# O que é a linguagem Python?
+
+Python é uma linguagem de alto nível, interpretada e baseada em scripts. Suporta tanto programação funcional quanto programação orientada a objetos. Vem tendo um sucesso muito grande e isso pode ser observado pela pesquisa de Trends do StackOverflow, onde é a linguagem com maior quantidade de perguntas do site (Algo entre 15 e 20% das perguntas são sobre Python).
+O python é mantido pela Python Software Foundation, que tem como presidente Guido Van Rossum, criador da linguagem. A Python Foundation foi fundada em 2001 como uma organização sem fins lucrativos destinada a manter os direitos intelectuais da linguagem Python.
+
+# O que é o Django Framework?
+
+O Django é um framework Python, que agrupa diversos facilitadores para o desenvolvimento web. Como o próprio site do Django diz, ele foi criado para alcançar a rápida velocidade de mudanças dentro de uma redação e seus deadlines, mas sem perder os requisitos de programadores web exigentes. O Django dá ênfase na reusabilidade do código, na plugabilidade dos pacotes/extensões, na menor quantidade de código, baixo acoplamento, desenvolvimento ágil e o princípio do "Don't repeat your self".
+O Django também é mantido por uma organização sem fins lucrativos que detém os direitos do framework que é a Django Software Foundation.
+
 # Como realizar a configuração inicial para desenvolver uma aplicação como esta
 
  1. Realizar o download do Python no [link](https://www.python.org/downloads/).
