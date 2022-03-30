@@ -104,3 +104,7 @@ git push -u heroku master
  ```shell
 heroku run python manage.py migrate
 ```
+
+# Acesso a aplicação
+
+A api pode ser acessada no link: https://pw26s-python.herokuapp.com/api/
